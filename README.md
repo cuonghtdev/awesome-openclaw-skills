@@ -759,6 +759,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [context-anchor](https://clawskills.sh/skills/boscoeuk-context-anchor) - Recover from context compaction by scanning memory files.
 - [continuity](https://clawskills.sh/skills/riley-coyote-continuity) - Asynchronous reflection and memory integration for genuine AI.
 - [continuity-framework](https://clawskills.sh/skills/riley-coyote-continuity-framework) - Asynchronous reflection and memory integration.
+- [ai-footprints](https://clawhub.ai/Piccolo123/ai-footprints) - Cross-platform bookmark manager with AI categorization, shared collections, and Agent API access.
 
 > **[View all 69 skills in Notes & PKM →](categories/notes-and-pkm.md)**
 </details>
